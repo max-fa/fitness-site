@@ -1,0 +1,70 @@
+/*This is the start of my css page for my drills guide*/
+
+/*html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    background: transparent;
+}*/
+body	{
+	margin: 0;
+	padding: 0;
+}
+
+#header-div	{
+	background-color: black;
+	color: gray;
+}
+
+#bigH1	{
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+#top-nav-bar > p	{
+	display: inline-block;
+	width: 24%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#top-nav-bar > p > button	{
+	margin-left: 150px;
+	color: gray;
+	border: none;
+	background-color: black;
+}
+
+
+/*These are the pages to load*/
+#intro	{
+	text-align: center;
+}
+
+#homeLayer	{
+	display: block;
+}
+
+#secondLayer	{
+	text-align: center;
+	display: none;
+}
+
+#thirdLayer	{
+	text-align: center;
+	display: none;
+}
+
+#fourthLayer	{
+	text-align: center;
+	display: none;
+}
+
+#fifthLayer	{
+	text-align: center;
+	display: none;
+}
+
+/*This is the content for muscle mechanics*/
